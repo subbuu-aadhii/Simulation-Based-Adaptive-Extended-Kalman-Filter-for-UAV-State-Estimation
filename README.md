@@ -19,7 +19,26 @@ This project implements an **Adaptive Extended Kalman Filter (AEKF)** that conti
 
 ---
 
-# Project Workflow - Architecture
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [System Architecture](#system-architecture)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [UAV CAD Model](#uav-cad-model)
+- [Composite Noise Model](#composite-noise-model)
+- [Adaptive Extended Kalman Filter](#adaptive-extended-kalman-filter)
+- [Simulink Model](#simulink-model)
+- [Results](#results)
+  - [Sensor Data Filtering - Flowchart](#sensor-data-filtering---flowchart)
+  - [Simulink & Hardware Validation](#simulink--hardware-validation)
+- [Software Used](#software-used)
+- [Future Work](#future-work)
+- [License](#license)
+
+--- 
+
+# System Architecture
 
 <img width="502" height="188" alt="image" src="https://github.com/user-attachments/assets/0fec11b9-6e2a-40bd-8e4f-dd4724f7d24b" />
 
@@ -61,7 +80,7 @@ AEKF-UAV-State-Estimation/
 
 ---
 
-# Drone Design - SolidWorks Drawing
+# UAV CAD Model
 
 <p align="center">
 
@@ -69,7 +88,7 @@ AEKF-UAV-State-Estimation/
 
 </p>
 
-# Composite Noise Model
+# Composite Noise Model 
 
 The simulated sensor noise is composed of four different components.
 
@@ -91,7 +110,7 @@ where
 
 ---
 
-## Noise Model
+## Composite Noise Model Visualization
 
 <p align="center">
 
