@@ -187,7 +187,7 @@ The AEKF demonstrates
 
 <p align="center">
 
-<img width="502" height="831" alt="image" src="https://github.com/user-attachments/assets/a83a38f4-06c5-4698-b96e-ae540d4120a5" />
+<img width="502" height="377" alt="image" src="https://github.com/user-attachments/assets/a55cd8dc-550e-4368-bf87-a553177bc703" />
 
 </p>
 
