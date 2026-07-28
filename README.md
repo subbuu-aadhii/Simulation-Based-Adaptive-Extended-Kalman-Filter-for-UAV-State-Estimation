@@ -225,3 +225,31 @@ The AEKF demonstrates
 - Hardware-in-the-loop (HIL) simulation
 
 ---
+
+# Citation
+
+If you use this work, please cite
+
+```bibtex
+@article{AEKF_UAV,
+  title={Adaptive Extended Kalman Filter for Robust UAV State Estimation under Sensor Degradation},
+  author={N. Subramanian},
+  year={2026}
+}
+```
+
+---
+
+# Author
+
+**N. Subramanian**
+
+Electrical and Electronics Engineering
+
+VIT Chennai
+
+---
+
+# License
+
+This project is released under the MIT License.
